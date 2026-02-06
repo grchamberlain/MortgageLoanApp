@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mortgageloanapp.client", "mortgageloanapp.client\mortgageloanapp.client.esproj", "{AE2C1963-EC58-1226-48C0-F6CBC8EC1367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortgageLoanApp.Server", "MortgageLoanApp.Server\MortgageLoanApp.Server.csproj", "{BB884DF8-7AF4-4F41-A3A9-E64BC36EDF56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2C1963-EC58-1226-48C0-F6CBC8EC1367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2C1963-EC58-1226-48C0-F6CBC8EC1367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2C1963-EC58-1226-48C0-F6CBC8EC1367}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AE2C1963-EC58-1226-48C0-F6CBC8EC1367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2C1963-EC58-1226-48C0-F6CBC8EC1367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2C1963-EC58-1226-48C0-F6CBC8EC1367}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BB884DF8-7AF4-4F41-A3A9-E64BC36EDF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB884DF8-7AF4-4F41-A3A9-E64BC36EDF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB884DF8-7AF4-4F41-A3A9-E64BC36EDF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB884DF8-7AF4-4F41-A3A9-E64BC36EDF56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC71C10-1263-4CA9-A5D6-9353ED04654D}
+	EndGlobalSection
+EndGlobal
