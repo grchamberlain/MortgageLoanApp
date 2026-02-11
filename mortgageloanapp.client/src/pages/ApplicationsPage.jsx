@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { getApplications } from '../api/mortgageApi';
+import './ApplicationsPage.css';
 
 export default function ApplicationsPage() {
     const [applications, setApplications] = useState([]);

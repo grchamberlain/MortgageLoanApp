@@ -1,0 +1,14 @@
+table {
+    border-collapse: separate;
+    border-spacing: 3rem 1rem;
+}
+
+th,
+td {
+    padding: 0.5rem 0;
+    text-align: left;
+}
+
+th {
+    font-weight: 600;
+}
